@@ -2,6 +2,8 @@
 
 A modern, single-page portfolio application built with React and React Router, designed to showcase professional work and experience.
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2d073e51-0308-4fba-9922-c7b0f44fd57d/deploy-status)](https://app.netlify.com/sites/react-portfolio-madamloki/deploys)
+
 ## Table of Contents
 
 - [React Portfolio](#react-portfolio)
